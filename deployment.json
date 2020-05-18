@@ -19,7 +19,7 @@
         "uid": "ef666194-bea7-42a3-a919-80b9632dec10"
     },
     "spec": {
-        "progressDeadlineSeconds": 600,
+        "progressDeadlineSeconds": 700,
         "replicas": 1,
         "revisionHistoryLimit": 10,
         "selector": {
