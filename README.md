@@ -1,0 +1,2 @@
+# configuration
+consul test repo
